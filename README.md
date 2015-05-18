@@ -6,6 +6,8 @@ In this assignment you will experiment with different ways of making mobile-frie
 
 This whole assignment is meant to make it easier to build the [card matching game assignment](https://github.com/suwebdev/wats1020-card-matching-game). You should have some idea of how you want to approach the layout of your game interface before you begin here.
 
+The starter images from the card matching game assignment have been provided in this repository under the `img/` directory. You may use those for this assignment, or swap in whatever other placeholders you prefer.
+
 ## Basic Requirements
 
 The basic requirements necessary to fulfill the goals of this assignment are:
